@@ -21,7 +21,7 @@ body {
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-name: jittery;
-    z-index: -10;
+    z-index: 1;
 }
 
 .interface-wrapper {
